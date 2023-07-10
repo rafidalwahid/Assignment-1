@@ -184,8 +184,8 @@ body {
   font-weight: 400;
 }
 
-.instagram-pic {
-  display: flex;
+/* .instagram-pic {
+    display: flex;
     gap: 3px;
   
 }
@@ -195,4 +195,27 @@ body {
     height: 20px;
     width: 300px;
   
+} */
+
+.instagram-pic {
+  margin: 5px 20px;
+  display: flex;
+  gap: 10px;
+  margin-bottom: 80px;
+}
+
+.latest-deals {
+  background-image: url("../Flower Asset/Rectangle\ 9.png");
+  background-repeat: no-repeat;
+}
+
+.latest-deals-title {
+  padding: 150px 500px 0px 500px;
+  text-align: center;
+}
+.latest-deals-details {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
 }
