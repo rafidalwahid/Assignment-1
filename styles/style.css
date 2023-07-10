@@ -163,6 +163,36 @@ body {
   line-height: 30px;
 }
 
-.hot-btn{
-    text-align: center;
+.hot-btn {
+  text-align: center;
+}
+
+.instagram-title {
+  margin-top: 128px;
+  margin-bottom: 0px;
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.instagram-description {
+  margin-top: 24px;
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.instagram-pic {
+  display: flex;
+    gap: 3px;
+  
+}
+
+.instagram-photo {
+    padding: 30px;
+    height: 20px;
+    width: 300px;
+  
 }
